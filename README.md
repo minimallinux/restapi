@@ -10,7 +10,7 @@ OR create a new bigger json or even sql file for more complex tests using someth
 
 Or other json files can be convert to a data.sql file using https://sqlizer.io/
 
-Use Postman or similar for requests
+Use Postman or similar for CRUD requests
 
 Useful quick start project.
 
@@ -38,6 +38,17 @@ category_id
 
 https://webmobapps.com/staging6/api/post/create.php
 
+//Update a post (put)
+
+https://webmobapps.com/staging6/api/post/update.php
+
+//Delete a post
+
+https://webmobapps.com/staging6/api/post/delete.php
+
+//TO DO
+
+Set up Categories CRUD
 
 ### Author
 
