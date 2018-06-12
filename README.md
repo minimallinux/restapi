@@ -38,11 +38,11 @@ category_id
 
 https://webmobapps.com/staging6/api/post/create.php
 
-//Update a post (put)
+//Update a post (use put , put params in body of request, application/json)
 
 https://webmobapps.com/staging6/api/post/update.php
 
-//Delete a post
+//Delete a post (use delete, put id in body of request, application/json)
 
 https://webmobapps.com/staging6/api/post/delete.php
 
